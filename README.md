@@ -118,13 +118,6 @@ ps
 
 **Purpose:** `ps` displays processes visible in the current Git Bash environment. The PID identifies a process, and the command or process-name column indicates what is running.
 
-**Process observed:**
-
-- Process name: `REPLACE_WITH_ACTUAL_PROCESS_NAME`
-- PID: `REPLACE_WITH_ACTUAL_PID`
-
-*Replace these placeholders with the actual process name and PID from your terminal output.*
-
 ## Evidence and Screenshots
 
 The `screenshots/` directory contains terminal screenshots documenting the completion of the lab tasks.
